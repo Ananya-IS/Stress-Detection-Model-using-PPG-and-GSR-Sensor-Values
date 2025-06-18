@@ -136,7 +136,7 @@ pip freeze > requirements.txt
 
 **Ananya**  
 Electronics and Communication Engineering Student  
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [https://github.com/ANANYA-IS](https://github.com/ANANYA-IS)
 
 ---
 
