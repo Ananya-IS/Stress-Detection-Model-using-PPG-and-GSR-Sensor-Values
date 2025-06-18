@@ -69,7 +69,6 @@ Dataset Name: PPG-DaLiA: A Public Dataset for PPG-Based Daily Stress Monitoring
 Source: [PhysioNet / IEEE DataPort]
 
 Credits / Citation:
-If you used the PPG-DaLiA dataset, cite it as:
 
 Reiss, Attila, et al. “Deep PPG: Large-scale heart rate estimation with convolutional neural networks.” Sensors 19.14 (2019): 3079.
 Dataset available at: https://www.physionet.org/content/ppg-dalia/1.0.0/
