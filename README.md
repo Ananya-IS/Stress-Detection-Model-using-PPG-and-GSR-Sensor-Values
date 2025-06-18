@@ -64,14 +64,30 @@ pip install -r requirements.txt
 ```
 
 ---
-### Step 4: Download the Dataset
-Dataset Name: PPG-DaLiA: A Public Dataset for PPG-Based Daily Stress Monitoring
-Source: [PhysioNet / IEEE DataPort]
+###  Dataset Used
+Dataset Name: WESAD (Wearable Stress and Affect Detection)
 
-Credits / Citation:
+Description:
+WESAD is a publicly available dataset for wearable stress and affect detection. It contains physiological and motion data (including PPG and EDA/GSR) collected from 15 subjects in three different affective states: baseline, stress, and amusement.
 
-Reiss, Attila, et al. “Deep PPG: Large-scale heart rate estimation with convolutional neural networks.” Sensors 19.14 (2019): 3079.
-Dataset available at: https://www.physionet.org/content/ppg-dalia/1.0.0/
+Citation:
+
+Schmidt, P., Reiss, A., Duerichen, R., & Van Laerhoven, K. (2018). Introducing WESAD, a Multimodal Dataset for Wearable Stress and Affect Detection. Proceedings of the 20th ACM International Conference on Multimodal Interaction.
+
+Download Link:
+🔗 https://ubicomp.eti.uni-siegen.de/home/datasets/wesad.html
+
+Instructions to Download:
+
+Visit the dataset website.
+
+Register with your email and details.
+
+Download the dataset ZIP file.
+
+Extract it to your desired directory (e.g., ./model/).
+
+Make sure your training or preprocessing scripts use the correct path to access the data.
 ##  How to Use
 
 ###  Training the Model
