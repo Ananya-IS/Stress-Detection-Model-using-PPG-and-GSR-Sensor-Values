@@ -78,13 +78,9 @@ Download Link:
 🔗 https://ubicomp.eti.uni-siegen.de/home/datasets/wesad.html
 
 Instructions to Download:
-
 Visit the dataset website.
-
 Register with your email and details.
-
 Download the dataset ZIP file.
-
 Extract it to your desired directory (e.g., ./model/).
 
 Make sure your training or preprocessing scripts use the correct path to access the data.
