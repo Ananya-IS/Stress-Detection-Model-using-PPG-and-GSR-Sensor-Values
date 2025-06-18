@@ -103,11 +103,11 @@ Example Output:
 
 ```
 ========================================
-STRESS MONITOR REPORT
+🧠 STRESS MONITOR REPORT
 ========================================
- Detected Stress Level: 😌 No Stress
- Stress Meter: [🟩🟩🟩⬜⬜] LOW
- Suggested Micro Break: You’re doing great! Take deep breaths and keep going! 💪
+📊 Detected Stress Level: 😌 No Stress
+🔧 Stress Meter: [🟩🟩🟩⬜⬜] LOW
+💡 Suggested Micro Break: You’re doing great! Take deep breaths and keep going! 💪
 ========================================
 ```
 
